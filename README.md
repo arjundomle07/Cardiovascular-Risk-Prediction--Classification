@@ -1,7 +1,7 @@
 ![Logo](https://d1aueex22ha5si.cloudfront.net/Conference/423/BackGround/Cardio%20care-1549632167059.gif)
 
 **Cardiovascular disease(CVD’s) are a group of life threatening diseases which takes millions of lives world wide.Early diagnosis can help in saving lives as it is said that prevention is better can cure. If our model is able to identify persons, who are at most risk of getting of CVD’s  then it would greatly help doctors to save lives by starting early diagnosis and reduce the chances of death.
-Our project aims at building ML models to detect high risk persons who are most vulnerable towards suffering from CVD’s** 
+Our project aims at building ML models to detect high risk persons who are most vulnerable towards suffering from CVD’s.** 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # **Index**
 
