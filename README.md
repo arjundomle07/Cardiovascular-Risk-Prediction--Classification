@@ -53,9 +53,9 @@ It includes 3390 records and 17 attributes.Variables each attribute is a potenti
 * **Categorical features :** is_smoking, sex, bp_meds, prevalent_hyp, prevalent_stroke. diabetes
 * **Numerical features :**  age, cigs_per_day, total_cholesterol, systolic_bp, diastolic_bp, bmi, heart rate, glucose
 
-**1. Rename columns: We have renamed columns to give appropriate name to features and removed spaces in-between**
+**1. Rename columns: We have renamed columns to give appropriate name to features and removed spaces in-between.**
 
-**2. Checking for duplicate rows : We had zero duplicate rows in our dataset**
+**2. Checking for duplicate rows : We had zero duplicate rows in our dataset.**
 
 **3. Checking for missing values : Missing values were present in  education, cigs_per_day, bp_meds, total_cholesterol, bmi, heart_rate, glucose**
 
