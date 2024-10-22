@@ -10,12 +10,12 @@ Our project aims at building ML models to detect high risk persons who are most 
 
 |  SI.No.            |   Content                                                              |
 | ----------------- | ------------------------------------------------------------------ |
-| 1 | <a href = "https://github.com/omkardesai98/Cardiovascular-Risk-Prediction#1-Introduction"> Introduction </a> |
-| 2| <a href = "https://github.com/omkardesai98/Cardiovascular-Risk-Prediction#1-Data Collection and Understanding"> Data Collection and Understanding </a> |
-| 3 | <a href = "https://github.com/omkardesai98/Cardiovascular-Risk-Prediction#1-Data Cleaning and Manipulation"> Data Cleaning and Manipulation </a> |
-| 4 | <a href = "https://github.com/omkardesai98/Cardiovascular-Risk-Prediction#1-Exploratory Data Analysis (EDA)"> Exploratory Data Analysis (EDA) </a>  |
-| 5 | <a href = "https://github.com/omkardesai98/Cardiovascular-Risk-Prediction#1-Model Selection And Evaluation"> Model Selection And Evaluation </a>  |
-| 6 | <a href = "https://github.com/omkardesai98/Cardiovascular-Risk-Prediction#1-Conclusion">Conclusion </a>  |
+| 1 | <a href = "https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification/blob/main/README.md#1-introduction"> Introduction </a> |
+| 2| <a href = "https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification/blob/main/README.md#2-data-collection-and-understanding"> Data Collection and Understanding </a> |
+| 3 | <a href = "https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification/blob/main/README.md#3-data-wrangling-and-feature-engineering"> Data Cleaning and Manipulation </a> |
+| 4 | <a href = "https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification/blob/main/README.md#4-exploratory-data-analysis-eda"> Exploratory Data Analysis (EDA) </a>  |
+| 5 | <a href = "https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification/blob/main/README.md#5-model-selection-and-evaluation"> Model Selection And Evaluation </a>  |
+| 6 | <a href = "https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification/blob/main/README.md#6-conclusion">Conclusion </a>  |
 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
